@@ -1,2 +1,2 @@
-# DaryaSimonova.github
+# DaryaSimonova
 Сайт визитка HTML, CSS
